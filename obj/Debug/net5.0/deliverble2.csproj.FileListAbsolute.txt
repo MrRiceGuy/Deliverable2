@@ -1,0 +1,16 @@
+C:\Users\carso\source\repos\deliverble2\deliverble2\bin\Debug\net5.0\deliverble2.exe
+C:\Users\carso\source\repos\deliverble2\deliverble2\bin\Debug\net5.0\deliverble2.deps.json
+C:\Users\carso\source\repos\deliverble2\deliverble2\bin\Debug\net5.0\deliverble2.runtimeconfig.json
+C:\Users\carso\source\repos\deliverble2\deliverble2\bin\Debug\net5.0\deliverble2.runtimeconfig.dev.json
+C:\Users\carso\source\repos\deliverble2\deliverble2\bin\Debug\net5.0\deliverble2.dll
+C:\Users\carso\source\repos\deliverble2\deliverble2\bin\Debug\net5.0\ref\deliverble2.dll
+C:\Users\carso\source\repos\deliverble2\deliverble2\bin\Debug\net5.0\deliverble2.pdb
+C:\Users\carso\source\repos\deliverble2\deliverble2\obj\Debug\net5.0\deliverble2.csproj.AssemblyReference.cache
+C:\Users\carso\source\repos\deliverble2\deliverble2\obj\Debug\net5.0\deliverble2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carso\source\repos\deliverble2\deliverble2\obj\Debug\net5.0\deliverble2.AssemblyInfoInputs.cache
+C:\Users\carso\source\repos\deliverble2\deliverble2\obj\Debug\net5.0\deliverble2.AssemblyInfo.cs
+C:\Users\carso\source\repos\deliverble2\deliverble2\obj\Debug\net5.0\deliverble2.csproj.CoreCompileInputs.cache
+C:\Users\carso\source\repos\deliverble2\deliverble2\obj\Debug\net5.0\deliverble2.dll
+C:\Users\carso\source\repos\deliverble2\deliverble2\obj\Debug\net5.0\ref\deliverble2.dll
+C:\Users\carso\source\repos\deliverble2\deliverble2\obj\Debug\net5.0\deliverble2.pdb
+C:\Users\carso\source\repos\deliverble2\deliverble2\obj\Debug\net5.0\deliverble2.genruntimeconfig.cache
